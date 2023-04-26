@@ -29,5 +29,5 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-## Inspired by 
+#### Inspired by 
 [John Weeks Dev](https://www.youtube.com/watch?v=zXpr8zaK2eA&list=WL&index=67)
